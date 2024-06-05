@@ -1,5 +1,5 @@
 data("swiss")
-help(swiss) %% understand the data 
+##help(swiss) ## understand the data 
 
 # Now lets we need to plot Fertility and Infant Mortality in the same plot but using 
 # Same extent of Y axis. 
